@@ -1,0 +1,46 @@
+.servicesMain{
+    margin-top: 650px;
+    padding: 40px;
+    width: 400px;
+    margin-left: 80px;
+}
+.servicesHead{
+    justify-content: center;
+}
+.servicesSub{
+    display: flex;
+    padding: 20px;
+   
+}
+.services{
+    padding: 30px;
+}
+.servicesImg{
+    width: 350px;
+
+}
+.servicesSub1{
+    display: flex;
+    padding: 20px;
+}
+.servicesSub>.services>h3{
+    font-size: 50px;
+    color: #9b870c;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.servicesSub1>.services>h3{
+    color: #9b870c;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.servicesSub>.services>p{
+    color: #9b870c;
+}
+.servicesSub1>.services>p{
+    color: #9b870c;
+
+}
+.wedding{
+    font-size: 600px;
+}
